@@ -1,0 +1,364 @@
+C:\Users\User\Desktop\SELA\projv2\FinalPoj1\FinalPoj1\bin\Debug\net6.0\FinalPoj1.exe
+C:\Users\User\Desktop\SELA\projv2\FinalPoj1\FinalPoj1\bin\Debug\net6.0\FinalPoj1.deps.json
+C:\Users\User\Desktop\SELA\projv2\FinalPoj1\FinalPoj1\bin\Debug\net6.0\FinalPoj1.runtimeconfig.json
+C:\Users\User\Desktop\SELA\projv2\FinalPoj1\FinalPoj1\bin\Debug\net6.0\FinalPoj1.dll
+C:\Users\User\Desktop\SELA\projv2\FinalPoj1\FinalPoj1\bin\Debug\net6.0\FinalPoj1.pdb
+C:\Users\User\Desktop\SELA\projv2\FinalPoj1\FinalPoj1\obj\Debug\net6.0\FinalPoj1.csproj.AssemblyReference.cache
+C:\Users\User\Desktop\SELA\projv2\FinalPoj1\FinalPoj1\obj\Debug\net6.0\FinalPoj1.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\User\Desktop\SELA\projv2\FinalPoj1\FinalPoj1\obj\Debug\net6.0\FinalPoj1.AssemblyInfoInputs.cache
+C:\Users\User\Desktop\SELA\projv2\FinalPoj1\FinalPoj1\obj\Debug\net6.0\FinalPoj1.AssemblyInfo.cs
+C:\Users\User\Desktop\SELA\projv2\FinalPoj1\FinalPoj1\obj\Debug\net6.0\FinalPoj1.csproj.CoreCompileInputs.cache
+C:\Users\User\Desktop\SELA\projv2\FinalPoj1\FinalPoj1\obj\Debug\net6.0\FinalPoj1.dll
+C:\Users\User\Desktop\SELA\projv2\FinalPoj1\FinalPoj1\obj\Debug\net6.0\refint\FinalPoj1.dll
+C:\Users\User\Desktop\SELA\projv2\FinalPoj1\FinalPoj1\obj\Debug\net6.0\FinalPoj1.pdb
+C:\Users\User\Desktop\SELA\projv2\FinalPoj1\FinalPoj1\obj\Debug\net6.0\FinalPoj1.genruntimeconfig.cache
+C:\Users\User\Desktop\SELA\projv2\FinalPoj1\FinalPoj1\obj\Debug\net6.0\ref\FinalPoj1.dll
+C:\Users\msvs\Desktop\Merkuri\finnal proj\FinalPoj1\FinalPoj1\obj\Debug\net6.0\FinalPoj1.csproj.AssemblyReference.cache
+C:\Users\msvs\Desktop\Merkuri\finnal proj\FinalPoj1\FinalPoj1\obj\Debug\net6.0\FinalPoj1.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\msvs\Desktop\Merkuri\finnal proj\FinalPoj1\FinalPoj1\obj\Debug\net6.0\FinalPoj1.AssemblyInfoInputs.cache
+C:\Users\msvs\Desktop\Merkuri\finnal proj\FinalPoj1\FinalPoj1\obj\Debug\net6.0\FinalPoj1.AssemblyInfo.cs
+C:\Users\msvs\Desktop\Merkuri\finnal proj\FinalPoj1\FinalPoj1\obj\Debug\net6.0\FinalPoj1.csproj.CoreCompileInputs.cache
+C:\Users\msvs\Desktop\Merkuri\finnal proj\FinalPoj1\FinalPoj1\obj\Debug\net6.0\FinalPoj1.dll
+C:\Users\msvs\Desktop\Merkuri\finnal proj\FinalPoj1\FinalPoj1\obj\Debug\net6.0\ref\FinalPoj1.dll
+C:\Users\msvs\Desktop\Merkuri\finnal proj\FinalPoj1\FinalPoj1\obj\Debug\net6.0\FinalPoj1.pdb
+C:\Users\msvs\Desktop\Merkuri\finnal proj\FinalPoj1\FinalPoj1\bin\Debug\net6.0\FinalPoj1.exe
+C:\Users\msvs\Desktop\Merkuri\finnal proj\FinalPoj1\FinalPoj1\bin\Debug\net6.0\FinalPoj1.deps.json
+C:\Users\msvs\Desktop\Merkuri\finnal proj\FinalPoj1\FinalPoj1\bin\Debug\net6.0\FinalPoj1.runtimeconfig.json
+C:\Users\msvs\Desktop\Merkuri\finnal proj\FinalPoj1\FinalPoj1\bin\Debug\net6.0\FinalPoj1.dll
+C:\Users\msvs\Desktop\Merkuri\finnal proj\FinalPoj1\FinalPoj1\bin\Debug\net6.0\ref\FinalPoj1.dll
+C:\Users\msvs\Desktop\Merkuri\finnal proj\FinalPoj1\FinalPoj1\bin\Debug\net6.0\FinalPoj1.pdb
+C:\Users\msvs\Desktop\Merkuri\finnal proj\FinalPoj1\FinalPoj1\obj\Debug\net6.0\FinalPoj1.genruntimeconfig.cache
+C:\Users\msvs\Desktop\Merkuri\finnal proj\FinalPoj1\FinalPoj1\bin\Debug\net6.0\Spectre.Console.dll
+C:\Users\msvs\Desktop\Merkuri\finnal proj\FinalPoj1\FinalPoj1\obj\Debug\net6.0\FinalPoj1.csproj.CopyComplete
+C:\Program Files (x86)\FinalPoj1\FinalPoj1\bin\Debug\net6.0\FinalPoj1.exe
+C:\Program Files (x86)\FinalPoj1\FinalPoj1\bin\Debug\net6.0\FinalPoj1.deps.json
+C:\Program Files (x86)\FinalPoj1\FinalPoj1\bin\Debug\net6.0\FinalPoj1.runtimeconfig.json
+C:\Program Files (x86)\FinalPoj1\FinalPoj1\bin\Debug\net6.0\FinalPoj1.dll
+C:\Program Files (x86)\FinalPoj1\FinalPoj1\bin\Debug\net6.0\FinalPoj1.pdb
+C:\Program Files (x86)\FinalPoj1\FinalPoj1\bin\Debug\net6.0\Spectre.Console.dll
+C:\Program Files (x86)\FinalPoj1\FinalPoj1\obj\Debug\net6.0\FinalPoj1.csproj.AssemblyReference.cache
+C:\Program Files (x86)\FinalPoj1\FinalPoj1\obj\Debug\net6.0\FinalPoj1.GeneratedMSBuildEditorConfig.editorconfig
+C:\Program Files (x86)\FinalPoj1\FinalPoj1\obj\Debug\net6.0\FinalPoj1.AssemblyInfoInputs.cache
+C:\Program Files (x86)\FinalPoj1\FinalPoj1\obj\Debug\net6.0\FinalPoj1.AssemblyInfo.cs
+C:\Program Files (x86)\FinalPoj1\FinalPoj1\obj\Debug\net6.0\FinalPoj1.csproj.CoreCompileInputs.cache
+C:\Program Files (x86)\FinalPoj1\FinalPoj1\obj\Debug\net6.0\FinalPoj1.csproj.CopyComplete
+C:\Program Files (x86)\FinalPoj1\FinalPoj1\obj\Debug\net6.0\FinalPoj1.dll
+C:\Program Files (x86)\FinalPoj1\FinalPoj1\obj\Debug\net6.0\refint\FinalPoj1.dll
+C:\Program Files (x86)\FinalPoj1\FinalPoj1\obj\Debug\net6.0\FinalPoj1.pdb
+C:\Program Files (x86)\FinalPoj1\FinalPoj1\obj\Debug\net6.0\FinalPoj1.genruntimeconfig.cache
+C:\Program Files (x86)\FinalPoj1\FinalPoj1\obj\Debug\net6.0\ref\FinalPoj1.dll
+C:\Users\User\Desktop\FinalPojV2\FinalPoj1\bin\Debug\net6.0\FinalPoj1.exe
+C:\Users\User\Desktop\FinalPojV2\FinalPoj1\bin\Debug\net6.0\FinalPoj1.deps.json
+C:\Users\User\Desktop\FinalPojV2\FinalPoj1\bin\Debug\net6.0\FinalPoj1.runtimeconfig.json
+C:\Users\User\Desktop\FinalPojV2\FinalPoj1\bin\Debug\net6.0\FinalPoj1.dll
+C:\Users\User\Desktop\FinalPojV2\FinalPoj1\bin\Debug\net6.0\FinalPoj1.pdb
+C:\Users\User\Desktop\FinalPojV2\FinalPoj1\bin\Debug\net6.0\Newtonsoft.Json.dll
+C:\Users\User\Desktop\FinalPojV2\FinalPoj1\bin\Debug\net6.0\Spectre.Console.dll
+C:\Users\User\Desktop\FinalPojV2\FinalPoj1\bin\Debug\net6.0\System.Text.Encodings.Web.dll
+C:\Users\User\Desktop\FinalPojV2\FinalPoj1\bin\Debug\net6.0\System.Text.Json.dll
+C:\Users\User\Desktop\FinalPojV2\FinalPoj1\bin\Debug\net6.0\runtimes\browser\lib\net6.0\System.Text.Encodings.Web.dll
+C:\Users\User\Desktop\FinalPojV2\FinalPoj1\obj\Debug\net6.0\FinalPoj1.csproj.AssemblyReference.cache
+C:\Users\User\Desktop\FinalPojV2\FinalPoj1\obj\Debug\net6.0\FinalPoj1.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\User\Desktop\FinalPojV2\FinalPoj1\obj\Debug\net6.0\FinalPoj1.AssemblyInfoInputs.cache
+C:\Users\User\Desktop\FinalPojV2\FinalPoj1\obj\Debug\net6.0\FinalPoj1.AssemblyInfo.cs
+C:\Users\User\Desktop\FinalPojV2\FinalPoj1\obj\Debug\net6.0\FinalPoj1.csproj.CoreCompileInputs.cache
+C:\Users\User\Desktop\FinalPojV2\FinalPoj1\obj\Debug\net6.0\FinalPoj1.csproj.CopyComplete
+C:\Users\User\Desktop\FinalPojV2\FinalPoj1\obj\Debug\net6.0\FinalPoj1.dll
+C:\Users\User\Desktop\FinalPojV2\FinalPoj1\obj\Debug\net6.0\refint\FinalPoj1.dll
+C:\Users\User\Desktop\FinalPojV2\FinalPoj1\obj\Debug\net6.0\FinalPoj1.pdb
+C:\Users\User\Desktop\FinalPojV2\FinalPoj1\obj\Debug\net6.0\FinalPoj1.genruntimeconfig.cache
+C:\Users\User\Desktop\FinalPojV2\FinalPoj1\obj\Debug\net6.0\ref\FinalPoj1.dll
+C:\Users\User\Desktop\FinalPojV3\FinalPoj1\obj\Debug\net6.0\FinalPoj1.csproj.AssemblyReference.cache
+C:\Users\User\Desktop\FinalPojV3\FinalPoj1\obj\Debug\net6.0\FinalPoj1.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\User\Desktop\FinalPojV3\FinalPoj1\obj\Debug\net6.0\FinalPoj1.AssemblyInfoInputs.cache
+C:\Users\User\Desktop\FinalPojV3\FinalPoj1\obj\Debug\net6.0\FinalPoj1.AssemblyInfo.cs
+C:\Users\User\Desktop\FinalPojV3\FinalPoj1\obj\Debug\net6.0\FinalPoj1.csproj.CoreCompileInputs.cache
+C:\Users\User\Desktop\FinalPojV3\FinalPoj1\obj\Debug\net6.0\FinalPoj1.dll
+C:\Users\User\Desktop\FinalPojV3\FinalPoj1\obj\Debug\net6.0\refint\FinalPoj1.dll
+C:\Users\User\Desktop\FinalPojV3\FinalPoj1\obj\Debug\net6.0\FinalPoj1.pdb
+C:\Users\User\Desktop\FinalPojV3\FinalPoj1\bin\Debug\net6.0\FinalPoj1.exe
+C:\Users\User\Desktop\FinalPojV3\FinalPoj1\bin\Debug\net6.0\FinalPoj1.deps.json
+C:\Users\User\Desktop\FinalPojV3\FinalPoj1\bin\Debug\net6.0\FinalPoj1.runtimeconfig.json
+C:\Users\User\Desktop\FinalPojV3\FinalPoj1\bin\Debug\net6.0\FinalPoj1.dll
+C:\Users\User\Desktop\FinalPojV3\FinalPoj1\bin\Debug\net6.0\FinalPoj1.pdb
+C:\Users\User\Desktop\FinalPojV3\FinalPoj1\bin\Debug\net6.0\Newtonsoft.Json.dll
+C:\Users\User\Desktop\FinalPojV3\FinalPoj1\bin\Debug\net6.0\Spectre.Console.dll
+C:\Users\User\Desktop\FinalPojV3\FinalPoj1\bin\Debug\net6.0\System.Text.Encodings.Web.dll
+C:\Users\User\Desktop\FinalPojV3\FinalPoj1\bin\Debug\net6.0\System.Text.Json.dll
+C:\Users\User\Desktop\FinalPojV3\FinalPoj1\bin\Debug\net6.0\runtimes\browser\lib\net6.0\System.Text.Encodings.Web.dll
+C:\Users\User\Desktop\FinalPojV3\FinalPoj1\obj\Debug\net6.0\FinalPoj1.csproj.CopyComplete
+C:\Users\User\Desktop\FinalPojV3\FinalPoj1\obj\Debug\net6.0\FinalPoj1.genruntimeconfig.cache
+C:\Users\User\Desktop\FinalPojV3\FinalPoj1\obj\Debug\net6.0\ref\FinalPoj1.dll
+C:\Users\User\Desktop\FinalPojV4\FinalPoj1\bin\Debug\net6.0\FinalPoj1.exe
+C:\Users\User\Desktop\FinalPojV4\FinalPoj1\bin\Debug\net6.0\FinalPoj1.deps.json
+C:\Users\User\Desktop\FinalPojV4\FinalPoj1\bin\Debug\net6.0\FinalPoj1.runtimeconfig.json
+C:\Users\User\Desktop\FinalPojV4\FinalPoj1\bin\Debug\net6.0\FinalPoj1.dll
+C:\Users\User\Desktop\FinalPojV4\FinalPoj1\bin\Debug\net6.0\FinalPoj1.pdb
+C:\Users\User\Desktop\FinalPojV4\FinalPoj1\bin\Debug\net6.0\Newtonsoft.Json.dll
+C:\Users\User\Desktop\FinalPojV4\FinalPoj1\bin\Debug\net6.0\Spectre.Console.dll
+C:\Users\User\Desktop\FinalPojV4\FinalPoj1\bin\Debug\net6.0\System.Text.Encodings.Web.dll
+C:\Users\User\Desktop\FinalPojV4\FinalPoj1\bin\Debug\net6.0\System.Text.Json.dll
+C:\Users\User\Desktop\FinalPojV4\FinalPoj1\bin\Debug\net6.0\runtimes\browser\lib\net6.0\System.Text.Encodings.Web.dll
+C:\Users\User\Desktop\FinalPojV4\FinalPoj1\obj\Debug\net6.0\FinalPoj1.csproj.AssemblyReference.cache
+C:\Users\User\Desktop\FinalPojV4\FinalPoj1\obj\Debug\net6.0\FinalPoj1.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\User\Desktop\FinalPojV4\FinalPoj1\obj\Debug\net6.0\FinalPoj1.AssemblyInfoInputs.cache
+C:\Users\User\Desktop\FinalPojV4\FinalPoj1\obj\Debug\net6.0\FinalPoj1.AssemblyInfo.cs
+C:\Users\User\Desktop\FinalPojV4\FinalPoj1\obj\Debug\net6.0\FinalPoj1.csproj.CoreCompileInputs.cache
+C:\Users\User\Desktop\FinalPojV4\FinalPoj1\obj\Debug\net6.0\FinalPoj1.csproj.CopyComplete
+C:\Users\User\Desktop\FinalPojV4\FinalPoj1\obj\Debug\net6.0\FinalPoj1.dll
+C:\Users\User\Desktop\FinalPojV4\FinalPoj1\obj\Debug\net6.0\refint\FinalPoj1.dll
+C:\Users\User\Desktop\FinalPojV4\FinalPoj1\obj\Debug\net6.0\FinalPoj1.pdb
+C:\Users\User\Desktop\FinalPojV4\FinalPoj1\obj\Debug\net6.0\FinalPoj1.genruntimeconfig.cache
+C:\Users\User\Desktop\FinalPojV4\FinalPoj1\obj\Debug\net6.0\ref\FinalPoj1.dll
+C:\Users\User\Desktop\FinalPojV5\FinalPoj1\bin\Debug\net6.0\FinalPoj1.exe
+C:\Users\User\Desktop\FinalPojV5\FinalPoj1\bin\Debug\net6.0\FinalPoj1.deps.json
+C:\Users\User\Desktop\FinalPojV5\FinalPoj1\bin\Debug\net6.0\FinalPoj1.runtimeconfig.json
+C:\Users\User\Desktop\FinalPojV5\FinalPoj1\bin\Debug\net6.0\FinalPoj1.dll
+C:\Users\User\Desktop\FinalPojV5\FinalPoj1\bin\Debug\net6.0\FinalPoj1.pdb
+C:\Users\User\Desktop\FinalPojV5\FinalPoj1\bin\Debug\net6.0\Newtonsoft.Json.dll
+C:\Users\User\Desktop\FinalPojV5\FinalPoj1\bin\Debug\net6.0\Spectre.Console.dll
+C:\Users\User\Desktop\FinalPojV5\FinalPoj1\bin\Debug\net6.0\System.Text.Encodings.Web.dll
+C:\Users\User\Desktop\FinalPojV5\FinalPoj1\bin\Debug\net6.0\System.Text.Json.dll
+C:\Users\User\Desktop\FinalPojV5\FinalPoj1\bin\Debug\net6.0\runtimes\browser\lib\net6.0\System.Text.Encodings.Web.dll
+C:\Users\User\Desktop\FinalPojV5\FinalPoj1\obj\Debug\net6.0\FinalPoj1.csproj.AssemblyReference.cache
+C:\Users\User\Desktop\FinalPojV5\FinalPoj1\obj\Debug\net6.0\FinalPoj1.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\User\Desktop\FinalPojV5\FinalPoj1\obj\Debug\net6.0\FinalPoj1.AssemblyInfoInputs.cache
+C:\Users\User\Desktop\FinalPojV5\FinalPoj1\obj\Debug\net6.0\FinalPoj1.AssemblyInfo.cs
+C:\Users\User\Desktop\FinalPojV5\FinalPoj1\obj\Debug\net6.0\FinalPoj1.csproj.CoreCompileInputs.cache
+C:\Users\User\Desktop\FinalPojV5\FinalPoj1\obj\Debug\net6.0\FinalPoj1.csproj.CopyComplete
+C:\Users\User\Desktop\FinalPojV5\FinalPoj1\obj\Debug\net6.0\FinalPoj1.dll
+C:\Users\User\Desktop\FinalPojV5\FinalPoj1\obj\Debug\net6.0\refint\FinalPoj1.dll
+C:\Users\User\Desktop\FinalPojV5\FinalPoj1\obj\Debug\net6.0\FinalPoj1.pdb
+C:\Users\User\Desktop\FinalPojV5\FinalPoj1\obj\Debug\net6.0\FinalPoj1.genruntimeconfig.cache
+C:\Users\User\Desktop\FinalPojV5\FinalPoj1\obj\Debug\net6.0\ref\FinalPoj1.dll
+C:\Users\User\Desktop\FinalPojV6\FinalPoj1\bin\Debug\net6.0\FinalPoj1.exe
+C:\Users\User\Desktop\FinalPojV6\FinalPoj1\bin\Debug\net6.0\FinalPoj1.deps.json
+C:\Users\User\Desktop\FinalPojV6\FinalPoj1\bin\Debug\net6.0\FinalPoj1.runtimeconfig.json
+C:\Users\User\Desktop\FinalPojV6\FinalPoj1\bin\Debug\net6.0\FinalPoj1.dll
+C:\Users\User\Desktop\FinalPojV6\FinalPoj1\bin\Debug\net6.0\FinalPoj1.pdb
+C:\Users\User\Desktop\FinalPojV6\FinalPoj1\bin\Debug\net6.0\Newtonsoft.Json.dll
+C:\Users\User\Desktop\FinalPojV6\FinalPoj1\bin\Debug\net6.0\Spectre.Console.dll
+C:\Users\User\Desktop\FinalPojV6\FinalPoj1\bin\Debug\net6.0\System.Text.Encodings.Web.dll
+C:\Users\User\Desktop\FinalPojV6\FinalPoj1\bin\Debug\net6.0\System.Text.Json.dll
+C:\Users\User\Desktop\FinalPojV6\FinalPoj1\bin\Debug\net6.0\runtimes\browser\lib\net6.0\System.Text.Encodings.Web.dll
+C:\Users\User\Desktop\FinalPojV6\FinalPoj1\obj\Debug\net6.0\FinalPoj1.csproj.AssemblyReference.cache
+C:\Users\User\Desktop\FinalPojV6\FinalPoj1\obj\Debug\net6.0\FinalPoj1.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\User\Desktop\FinalPojV6\FinalPoj1\obj\Debug\net6.0\FinalPoj1.AssemblyInfoInputs.cache
+C:\Users\User\Desktop\FinalPojV6\FinalPoj1\obj\Debug\net6.0\FinalPoj1.AssemblyInfo.cs
+C:\Users\User\Desktop\FinalPojV6\FinalPoj1\obj\Debug\net6.0\FinalPoj1.csproj.CoreCompileInputs.cache
+C:\Users\User\Desktop\FinalPojV6\FinalPoj1\obj\Debug\net6.0\FinalPoj1.csproj.CopyComplete
+C:\Users\User\Desktop\FinalPojV6\FinalPoj1\obj\Debug\net6.0\FinalPoj1.dll
+C:\Users\User\Desktop\FinalPojV6\FinalPoj1\obj\Debug\net6.0\refint\FinalPoj1.dll
+C:\Users\User\Desktop\FinalPojV6\FinalPoj1\obj\Debug\net6.0\FinalPoj1.pdb
+C:\Users\User\Desktop\FinalPojV6\FinalPoj1\obj\Debug\net6.0\FinalPoj1.genruntimeconfig.cache
+C:\Users\User\Desktop\FinalPojV6\FinalPoj1\obj\Debug\net6.0\ref\FinalPoj1.dll
+C:\Users\msvs\Desktop\FinalPojV6\FinalPoj1\bin\Debug\net6.0\FinalPoj1.exe
+C:\Users\msvs\Desktop\FinalPojV6\FinalPoj1\bin\Debug\net6.0\FinalPoj1.deps.json
+C:\Users\msvs\Desktop\FinalPojV6\FinalPoj1\bin\Debug\net6.0\FinalPoj1.runtimeconfig.json
+C:\Users\msvs\Desktop\FinalPojV6\FinalPoj1\bin\Debug\net6.0\FinalPoj1.dll
+C:\Users\msvs\Desktop\FinalPojV6\FinalPoj1\bin\Debug\net6.0\ref\FinalPoj1.dll
+C:\Users\msvs\Desktop\FinalPojV6\FinalPoj1\bin\Debug\net6.0\FinalPoj1.pdb
+C:\Users\msvs\Desktop\FinalPojV6\FinalPoj1\bin\Debug\net6.0\Newtonsoft.Json.dll
+C:\Users\msvs\Desktop\FinalPojV6\FinalPoj1\bin\Debug\net6.0\Spectre.Console.dll
+C:\Users\msvs\Desktop\FinalPojV6\FinalPoj1\bin\Debug\net6.0\System.Text.Encodings.Web.dll
+C:\Users\msvs\Desktop\FinalPojV6\FinalPoj1\bin\Debug\net6.0\System.Text.Json.dll
+C:\Users\msvs\Desktop\FinalPojV6\FinalPoj1\bin\Debug\net6.0\runtimes\browser\lib\net6.0\System.Text.Encodings.Web.dll
+C:\Users\msvs\Desktop\FinalPojV6\FinalPoj1\obj\Debug\net6.0\FinalPoj1.csproj.AssemblyReference.cache
+C:\Users\msvs\Desktop\FinalPojV6\FinalPoj1\obj\Debug\net6.0\FinalPoj1.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\msvs\Desktop\FinalPojV6\FinalPoj1\obj\Debug\net6.0\FinalPoj1.AssemblyInfoInputs.cache
+C:\Users\msvs\Desktop\FinalPojV6\FinalPoj1\obj\Debug\net6.0\FinalPoj1.AssemblyInfo.cs
+C:\Users\msvs\Desktop\FinalPojV6\FinalPoj1\obj\Debug\net6.0\FinalPoj1.csproj.CoreCompileInputs.cache
+C:\Users\msvs\Desktop\FinalPojV6\FinalPoj1\obj\Debug\net6.0\FinalPoj1.csproj.CopyComplete
+C:\Users\msvs\Desktop\FinalPojV6\FinalPoj1\obj\Debug\net6.0\FinalPoj1.dll
+C:\Users\msvs\Desktop\FinalPojV6\FinalPoj1\obj\Debug\net6.0\ref\FinalPoj1.dll
+C:\Users\msvs\Desktop\FinalPojV6\FinalPoj1\obj\Debug\net6.0\FinalPoj1.pdb
+C:\Users\msvs\Desktop\FinalPojV6\FinalPoj1\obj\Debug\net6.0\FinalPoj1.genruntimeconfig.cache
+C:\Users\User\Desktop\FinalPojV7\FinalPoj1\bin\Debug\net6.0\FinalPoj1.exe
+C:\Users\User\Desktop\FinalPojV7\FinalPoj1\bin\Debug\net6.0\FinalPoj1.deps.json
+C:\Users\User\Desktop\FinalPojV7\FinalPoj1\bin\Debug\net6.0\FinalPoj1.runtimeconfig.json
+C:\Users\User\Desktop\FinalPojV7\FinalPoj1\bin\Debug\net6.0\FinalPoj1.dll
+C:\Users\User\Desktop\FinalPojV7\FinalPoj1\bin\Debug\net6.0\FinalPoj1.pdb
+C:\Users\User\Desktop\FinalPojV7\FinalPoj1\bin\Debug\net6.0\Newtonsoft.Json.dll
+C:\Users\User\Desktop\FinalPojV7\FinalPoj1\bin\Debug\net6.0\Spectre.Console.dll
+C:\Users\User\Desktop\FinalPojV7\FinalPoj1\bin\Debug\net6.0\System.Text.Encodings.Web.dll
+C:\Users\User\Desktop\FinalPojV7\FinalPoj1\bin\Debug\net6.0\System.Text.Json.dll
+C:\Users\User\Desktop\FinalPojV7\FinalPoj1\bin\Debug\net6.0\runtimes\browser\lib\net6.0\System.Text.Encodings.Web.dll
+C:\Users\User\Desktop\FinalPojV7\FinalPoj1\obj\Debug\net6.0\FinalPoj1.csproj.AssemblyReference.cache
+C:\Users\User\Desktop\FinalPojV7\FinalPoj1\obj\Debug\net6.0\FinalPoj1.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\User\Desktop\FinalPojV7\FinalPoj1\obj\Debug\net6.0\FinalPoj1.AssemblyInfoInputs.cache
+C:\Users\User\Desktop\FinalPojV7\FinalPoj1\obj\Debug\net6.0\FinalPoj1.AssemblyInfo.cs
+C:\Users\User\Desktop\FinalPojV7\FinalPoj1\obj\Debug\net6.0\FinalPoj1.csproj.CoreCompileInputs.cache
+C:\Users\User\Desktop\FinalPojV7\FinalPoj1\obj\Debug\net6.0\FinalPoj1.csproj.CopyComplete
+C:\Users\User\Desktop\FinalPojV7\FinalPoj1\obj\Debug\net6.0\FinalPoj1.dll
+C:\Users\User\Desktop\FinalPojV7\FinalPoj1\obj\Debug\net6.0\refint\FinalPoj1.dll
+C:\Users\User\Desktop\FinalPojV7\FinalPoj1\obj\Debug\net6.0\FinalPoj1.pdb
+C:\Users\User\Desktop\FinalPojV7\FinalPoj1\obj\Debug\net6.0\FinalPoj1.genruntimeconfig.cache
+C:\Users\User\Desktop\FinalPojV7\FinalPoj1\obj\Debug\net6.0\ref\FinalPoj1.dll
+C:\Users\User\Desktop\FinalPojV8\FinalPoj1\bin\Debug\net6.0\FinalPoj1.exe
+C:\Users\User\Desktop\FinalPojV8\FinalPoj1\bin\Debug\net6.0\FinalPoj1.deps.json
+C:\Users\User\Desktop\FinalPojV8\FinalPoj1\bin\Debug\net6.0\FinalPoj1.runtimeconfig.json
+C:\Users\User\Desktop\FinalPojV8\FinalPoj1\bin\Debug\net6.0\FinalPoj1.dll
+C:\Users\User\Desktop\FinalPojV8\FinalPoj1\bin\Debug\net6.0\FinalPoj1.pdb
+C:\Users\User\Desktop\FinalPojV8\FinalPoj1\bin\Debug\net6.0\Newtonsoft.Json.dll
+C:\Users\User\Desktop\FinalPojV8\FinalPoj1\bin\Debug\net6.0\Spectre.Console.dll
+C:\Users\User\Desktop\FinalPojV8\FinalPoj1\bin\Debug\net6.0\System.Text.Encodings.Web.dll
+C:\Users\User\Desktop\FinalPojV8\FinalPoj1\bin\Debug\net6.0\System.Text.Json.dll
+C:\Users\User\Desktop\FinalPojV8\FinalPoj1\bin\Debug\net6.0\runtimes\browser\lib\net6.0\System.Text.Encodings.Web.dll
+C:\Users\User\Desktop\FinalPojV8\FinalPoj1\obj\Debug\net6.0\FinalPoj1.csproj.AssemblyReference.cache
+C:\Users\User\Desktop\FinalPojV8\FinalPoj1\obj\Debug\net6.0\FinalPoj1.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\User\Desktop\FinalPojV8\FinalPoj1\obj\Debug\net6.0\FinalPoj1.AssemblyInfoInputs.cache
+C:\Users\User\Desktop\FinalPojV8\FinalPoj1\obj\Debug\net6.0\FinalPoj1.AssemblyInfo.cs
+C:\Users\User\Desktop\FinalPojV8\FinalPoj1\obj\Debug\net6.0\FinalPoj1.csproj.CoreCompileInputs.cache
+C:\Users\User\Desktop\FinalPojV8\FinalPoj1\obj\Debug\net6.0\FinalPoj1.csproj.CopyComplete
+C:\Users\User\Desktop\FinalPojV8\FinalPoj1\obj\Debug\net6.0\FinalPoj1.dll
+C:\Users\User\Desktop\FinalPojV8\FinalPoj1\obj\Debug\net6.0\refint\FinalPoj1.dll
+C:\Users\User\Desktop\FinalPojV8\FinalPoj1\obj\Debug\net6.0\FinalPoj1.pdb
+C:\Users\User\Desktop\FinalPojV8\FinalPoj1\obj\Debug\net6.0\FinalPoj1.genruntimeconfig.cache
+C:\Users\User\Desktop\FinalPojV8\FinalPoj1\obj\Debug\net6.0\ref\FinalPoj1.dll
+C:\Users\User\Desktop\FinalPojV9\FinalPoj1\bin\Debug\net6.0\FinalPoj1.exe
+C:\Users\User\Desktop\FinalPojV9\FinalPoj1\bin\Debug\net6.0\FinalPoj1.deps.json
+C:\Users\User\Desktop\FinalPojV9\FinalPoj1\bin\Debug\net6.0\FinalPoj1.runtimeconfig.json
+C:\Users\User\Desktop\FinalPojV9\FinalPoj1\bin\Debug\net6.0\FinalPoj1.dll
+C:\Users\User\Desktop\FinalPojV9\FinalPoj1\bin\Debug\net6.0\FinalPoj1.pdb
+C:\Users\User\Desktop\FinalPojV9\FinalPoj1\bin\Debug\net6.0\Newtonsoft.Json.dll
+C:\Users\User\Desktop\FinalPojV9\FinalPoj1\bin\Debug\net6.0\Spectre.Console.dll
+C:\Users\User\Desktop\FinalPojV9\FinalPoj1\bin\Debug\net6.0\System.Text.Encodings.Web.dll
+C:\Users\User\Desktop\FinalPojV9\FinalPoj1\bin\Debug\net6.0\System.Text.Json.dll
+C:\Users\User\Desktop\FinalPojV9\FinalPoj1\bin\Debug\net6.0\runtimes\browser\lib\net6.0\System.Text.Encodings.Web.dll
+C:\Users\User\Desktop\FinalPojV9\FinalPoj1\obj\Debug\net6.0\FinalPoj1.csproj.AssemblyReference.cache
+C:\Users\User\Desktop\FinalPojV9\FinalPoj1\obj\Debug\net6.0\FinalPoj1.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\User\Desktop\FinalPojV9\FinalPoj1\obj\Debug\net6.0\FinalPoj1.AssemblyInfoInputs.cache
+C:\Users\User\Desktop\FinalPojV9\FinalPoj1\obj\Debug\net6.0\FinalPoj1.AssemblyInfo.cs
+C:\Users\User\Desktop\FinalPojV9\FinalPoj1\obj\Debug\net6.0\FinalPoj1.csproj.CoreCompileInputs.cache
+C:\Users\User\Desktop\FinalPojV9\FinalPoj1\obj\Debug\net6.0\FinalPoj1.csproj.CopyComplete
+C:\Users\User\Desktop\FinalPojV9\FinalPoj1\obj\Debug\net6.0\FinalPoj1.dll
+C:\Users\User\Desktop\FinalPojV9\FinalPoj1\obj\Debug\net6.0\refint\FinalPoj1.dll
+C:\Users\User\Desktop\FinalPojV9\FinalPoj1\obj\Debug\net6.0\FinalPoj1.pdb
+C:\Users\User\Desktop\FinalPojV9\FinalPoj1\obj\Debug\net6.0\FinalPoj1.genruntimeconfig.cache
+C:\Users\User\Desktop\FinalPojV9\FinalPoj1\obj\Debug\net6.0\ref\FinalPoj1.dll
+C:\Users\User\Desktop\FinalPojV10\FinalPoj1\bin\Debug\net6.0\FinalPoj1.exe
+C:\Users\User\Desktop\FinalPojV10\FinalPoj1\bin\Debug\net6.0\FinalPoj1.deps.json
+C:\Users\User\Desktop\FinalPojV10\FinalPoj1\bin\Debug\net6.0\FinalPoj1.runtimeconfig.json
+C:\Users\User\Desktop\FinalPojV10\FinalPoj1\bin\Debug\net6.0\FinalPoj1.dll
+C:\Users\User\Desktop\FinalPojV10\FinalPoj1\bin\Debug\net6.0\FinalPoj1.pdb
+C:\Users\User\Desktop\FinalPojV10\FinalPoj1\bin\Debug\net6.0\Newtonsoft.Json.dll
+C:\Users\User\Desktop\FinalPojV10\FinalPoj1\bin\Debug\net6.0\Spectre.Console.dll
+C:\Users\User\Desktop\FinalPojV10\FinalPoj1\bin\Debug\net6.0\System.Text.Encodings.Web.dll
+C:\Users\User\Desktop\FinalPojV10\FinalPoj1\bin\Debug\net6.0\System.Text.Json.dll
+C:\Users\User\Desktop\FinalPojV10\FinalPoj1\bin\Debug\net6.0\runtimes\browser\lib\net6.0\System.Text.Encodings.Web.dll
+C:\Users\User\Desktop\FinalPojV10\FinalPoj1\obj\Debug\net6.0\FinalPoj1.csproj.AssemblyReference.cache
+C:\Users\User\Desktop\FinalPojV10\FinalPoj1\obj\Debug\net6.0\FinalPoj1.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\User\Desktop\FinalPojV10\FinalPoj1\obj\Debug\net6.0\FinalPoj1.AssemblyInfoInputs.cache
+C:\Users\User\Desktop\FinalPojV10\FinalPoj1\obj\Debug\net6.0\FinalPoj1.AssemblyInfo.cs
+C:\Users\User\Desktop\FinalPojV10\FinalPoj1\obj\Debug\net6.0\FinalPoj1.csproj.CoreCompileInputs.cache
+C:\Users\User\Desktop\FinalPojV10\FinalPoj1\obj\Debug\net6.0\FinalPoj1.csproj.CopyComplete
+C:\Users\User\Desktop\FinalPojV10\FinalPoj1\obj\Debug\net6.0\FinalPoj1.dll
+C:\Users\User\Desktop\FinalPojV10\FinalPoj1\obj\Debug\net6.0\refint\FinalPoj1.dll
+C:\Users\User\Desktop\FinalPojV10\FinalPoj1\obj\Debug\net6.0\FinalPoj1.pdb
+C:\Users\User\Desktop\FinalPojV10\FinalPoj1\obj\Debug\net6.0\FinalPoj1.genruntimeconfig.cache
+C:\Users\User\Desktop\FinalPojV10\FinalPoj1\obj\Debug\net6.0\ref\FinalPoj1.dll
+C:\Users\User\Desktop\FinalPojV11\FinalPoj1\bin\Debug\net6.0\FinalPoj1.exe
+C:\Users\User\Desktop\FinalPojV11\FinalPoj1\bin\Debug\net6.0\FinalPoj1.deps.json
+C:\Users\User\Desktop\FinalPojV11\FinalPoj1\bin\Debug\net6.0\FinalPoj1.runtimeconfig.json
+C:\Users\User\Desktop\FinalPojV11\FinalPoj1\bin\Debug\net6.0\FinalPoj1.dll
+C:\Users\User\Desktop\FinalPojV11\FinalPoj1\bin\Debug\net6.0\FinalPoj1.pdb
+C:\Users\User\Desktop\FinalPojV11\FinalPoj1\bin\Debug\net6.0\Newtonsoft.Json.dll
+C:\Users\User\Desktop\FinalPojV11\FinalPoj1\bin\Debug\net6.0\Spectre.Console.dll
+C:\Users\User\Desktop\FinalPojV11\FinalPoj1\bin\Debug\net6.0\System.Text.Encodings.Web.dll
+C:\Users\User\Desktop\FinalPojV11\FinalPoj1\bin\Debug\net6.0\System.Text.Json.dll
+C:\Users\User\Desktop\FinalPojV11\FinalPoj1\bin\Debug\net6.0\runtimes\browser\lib\net6.0\System.Text.Encodings.Web.dll
+C:\Users\User\Desktop\FinalPojV11\FinalPoj1\obj\Debug\net6.0\FinalPoj1.csproj.AssemblyReference.cache
+C:\Users\User\Desktop\FinalPojV11\FinalPoj1\obj\Debug\net6.0\FinalPoj1.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\User\Desktop\FinalPojV11\FinalPoj1\obj\Debug\net6.0\FinalPoj1.AssemblyInfoInputs.cache
+C:\Users\User\Desktop\FinalPojV11\FinalPoj1\obj\Debug\net6.0\FinalPoj1.AssemblyInfo.cs
+C:\Users\User\Desktop\FinalPojV11\FinalPoj1\obj\Debug\net6.0\FinalPoj1.csproj.CoreCompileInputs.cache
+C:\Users\User\Desktop\FinalPojV11\FinalPoj1\obj\Debug\net6.0\FinalPoj1.csproj.CopyComplete
+C:\Users\User\Desktop\FinalPojV11\FinalPoj1\obj\Debug\net6.0\FinalPoj1.dll
+C:\Users\User\Desktop\FinalPojV11\FinalPoj1\obj\Debug\net6.0\refint\FinalPoj1.dll
+C:\Users\User\Desktop\FinalPojV11\FinalPoj1\obj\Debug\net6.0\FinalPoj1.pdb
+C:\Users\User\Desktop\FinalPojV11\FinalPoj1\obj\Debug\net6.0\FinalPoj1.genruntimeconfig.cache
+C:\Users\User\Desktop\FinalPojV11\FinalPoj1\obj\Debug\net6.0\ref\FinalPoj1.dll
+C:\Users\User\Desktop\FinalPojV12\FinalPoj1\bin\Debug\net6.0\FinalPoj1.exe
+C:\Users\User\Desktop\FinalPojV12\FinalPoj1\bin\Debug\net6.0\FinalPoj1.deps.json
+C:\Users\User\Desktop\FinalPojV12\FinalPoj1\bin\Debug\net6.0\FinalPoj1.runtimeconfig.json
+C:\Users\User\Desktop\FinalPojV12\FinalPoj1\bin\Debug\net6.0\FinalPoj1.dll
+C:\Users\User\Desktop\FinalPojV12\FinalPoj1\bin\Debug\net6.0\FinalPoj1.pdb
+C:\Users\User\Desktop\FinalPojV12\FinalPoj1\bin\Debug\net6.0\Newtonsoft.Json.dll
+C:\Users\User\Desktop\FinalPojV12\FinalPoj1\bin\Debug\net6.0\Spectre.Console.dll
+C:\Users\User\Desktop\FinalPojV12\FinalPoj1\bin\Debug\net6.0\System.Text.Encodings.Web.dll
+C:\Users\User\Desktop\FinalPojV12\FinalPoj1\bin\Debug\net6.0\System.Text.Json.dll
+C:\Users\User\Desktop\FinalPojV12\FinalPoj1\bin\Debug\net6.0\runtimes\browser\lib\net6.0\System.Text.Encodings.Web.dll
+C:\Users\User\Desktop\FinalPojV12\FinalPoj1\obj\Debug\net6.0\FinalPoj1.csproj.AssemblyReference.cache
+C:\Users\User\Desktop\FinalPojV12\FinalPoj1\obj\Debug\net6.0\FinalPoj1.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\User\Desktop\FinalPojV12\FinalPoj1\obj\Debug\net6.0\FinalPoj1.AssemblyInfoInputs.cache
+C:\Users\User\Desktop\FinalPojV12\FinalPoj1\obj\Debug\net6.0\FinalPoj1.AssemblyInfo.cs
+C:\Users\User\Desktop\FinalPojV12\FinalPoj1\obj\Debug\net6.0\FinalPoj1.csproj.CoreCompileInputs.cache
+C:\Users\User\Desktop\FinalPojV12\FinalPoj1\obj\Debug\net6.0\FinalPoj1.csproj.CopyComplete
+C:\Users\User\Desktop\FinalPojV12\FinalPoj1\obj\Debug\net6.0\FinalPoj1.dll
+C:\Users\User\Desktop\FinalPojV12\FinalPoj1\obj\Debug\net6.0\refint\FinalPoj1.dll
+C:\Users\User\Desktop\FinalPojV12\FinalPoj1\obj\Debug\net6.0\FinalPoj1.pdb
+C:\Users\User\Desktop\FinalPojV12\FinalPoj1\obj\Debug\net6.0\FinalPoj1.genruntimeconfig.cache
+C:\Users\User\Desktop\FinalPojV12\FinalPoj1\obj\Debug\net6.0\ref\FinalPoj1.dll
+C:\Users\User\Desktop\FinalPojV12(working version)\FinalPoj1\bin\Debug\net6.0\FinalPoj1.exe
+C:\Users\User\Desktop\FinalPojV12(working version)\FinalPoj1\bin\Debug\net6.0\FinalPoj1.deps.json
+C:\Users\User\Desktop\FinalPojV12(working version)\FinalPoj1\bin\Debug\net6.0\FinalPoj1.runtimeconfig.json
+C:\Users\User\Desktop\FinalPojV12(working version)\FinalPoj1\bin\Debug\net6.0\FinalPoj1.dll
+C:\Users\User\Desktop\FinalPojV12(working version)\FinalPoj1\bin\Debug\net6.0\FinalPoj1.pdb
+C:\Users\User\Desktop\FinalPojV12(working version)\FinalPoj1\bin\Debug\net6.0\Newtonsoft.Json.dll
+C:\Users\User\Desktop\FinalPojV12(working version)\FinalPoj1\bin\Debug\net6.0\Spectre.Console.dll
+C:\Users\User\Desktop\FinalPojV12(working version)\FinalPoj1\bin\Debug\net6.0\System.Text.Encodings.Web.dll
+C:\Users\User\Desktop\FinalPojV12(working version)\FinalPoj1\bin\Debug\net6.0\System.Text.Json.dll
+C:\Users\User\Desktop\FinalPojV12(working version)\FinalPoj1\bin\Debug\net6.0\runtimes\browser\lib\net6.0\System.Text.Encodings.Web.dll
+C:\Users\User\Desktop\FinalPojV12(working version)\FinalPoj1\obj\Debug\net6.0\FinalPoj1.csproj.AssemblyReference.cache
+C:\Users\User\Desktop\FinalPojV12(working version)\FinalPoj1\obj\Debug\net6.0\FinalPoj1.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\User\Desktop\FinalPojV12(working version)\FinalPoj1\obj\Debug\net6.0\FinalPoj1.AssemblyInfoInputs.cache
+C:\Users\User\Desktop\FinalPojV12(working version)\FinalPoj1\obj\Debug\net6.0\FinalPoj1.AssemblyInfo.cs
+C:\Users\User\Desktop\FinalPojV12(working version)\FinalPoj1\obj\Debug\net6.0\FinalPoj1.csproj.CoreCompileInputs.cache
+C:\Users\User\Desktop\FinalPojV12(working version)\FinalPoj1\obj\Debug\net6.0\FinalPoj1.csproj.CopyComplete
+C:\Users\User\Desktop\FinalPojV12(working version)\FinalPoj1\obj\Debug\net6.0\FinalPoj1.dll
+C:\Users\User\Desktop\FinalPojV12(working version)\FinalPoj1\obj\Debug\net6.0\refint\FinalPoj1.dll
+C:\Users\User\Desktop\FinalPojV12(working version)\FinalPoj1\obj\Debug\net6.0\FinalPoj1.pdb
+C:\Users\User\Desktop\FinalPojV12(working version)\FinalPoj1\obj\Debug\net6.0\FinalPoj1.genruntimeconfig.cache
+C:\Users\User\Desktop\FinalPojV12(working version)\FinalPoj1\obj\Debug\net6.0\ref\FinalPoj1.dll
+C:\Users\User\Desktop\FinalPojV12(icon)\FinalPoj1\bin\Debug\net6.0\FinalPoj1.exe
+C:\Users\User\Desktop\FinalPojV12(icon)\FinalPoj1\bin\Debug\net6.0\FinalPoj1.deps.json
+C:\Users\User\Desktop\FinalPojV12(icon)\FinalPoj1\bin\Debug\net6.0\FinalPoj1.runtimeconfig.json
+C:\Users\User\Desktop\FinalPojV12(icon)\FinalPoj1\bin\Debug\net6.0\FinalPoj1.dll
+C:\Users\User\Desktop\FinalPojV12(icon)\FinalPoj1\bin\Debug\net6.0\FinalPoj1.pdb
+C:\Users\User\Desktop\FinalPojV12(icon)\FinalPoj1\bin\Debug\net6.0\Newtonsoft.Json.dll
+C:\Users\User\Desktop\FinalPojV12(icon)\FinalPoj1\bin\Debug\net6.0\Spectre.Console.dll
+C:\Users\User\Desktop\FinalPojV12(icon)\FinalPoj1\bin\Debug\net6.0\System.Text.Encodings.Web.dll
+C:\Users\User\Desktop\FinalPojV12(icon)\FinalPoj1\bin\Debug\net6.0\System.Text.Json.dll
+C:\Users\User\Desktop\FinalPojV12(icon)\FinalPoj1\bin\Debug\net6.0\runtimes\browser\lib\net6.0\System.Text.Encodings.Web.dll
+C:\Users\User\Desktop\FinalPojV12(icon)\FinalPoj1\obj\Debug\net6.0\FinalPoj1.csproj.AssemblyReference.cache
+C:\Users\User\Desktop\FinalPojV12(icon)\FinalPoj1\obj\Debug\net6.0\FinalPoj1.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\User\Desktop\FinalPojV12(icon)\FinalPoj1\obj\Debug\net6.0\FinalPoj1.AssemblyInfoInputs.cache
+C:\Users\User\Desktop\FinalPojV12(icon)\FinalPoj1\obj\Debug\net6.0\FinalPoj1.AssemblyInfo.cs
+C:\Users\User\Desktop\FinalPojV12(icon)\FinalPoj1\obj\Debug\net6.0\FinalPoj1.csproj.CoreCompileInputs.cache
+C:\Users\User\Desktop\FinalPojV12(icon)\FinalPoj1\obj\Debug\net6.0\FinalPoj1.csproj.CopyComplete
+C:\Users\User\Desktop\FinalPojV12(icon)\FinalPoj1\obj\Debug\net6.0\FinalPoj1.dll
+C:\Users\User\Desktop\FinalPojV12(icon)\FinalPoj1\obj\Debug\net6.0\refint\FinalPoj1.dll
+C:\Users\User\Desktop\FinalPojV12(icon)\FinalPoj1\obj\Debug\net6.0\FinalPoj1.pdb
+C:\Users\User\Desktop\FinalPojV12(icon)\FinalPoj1\obj\Debug\net6.0\FinalPoj1.genruntimeconfig.cache
+C:\Users\User\Desktop\FinalPojV12(icon)\FinalPoj1\obj\Debug\net6.0\ref\FinalPoj1.dll
+C:\Users\User\Desktop\SELA\code\Le_AGASHA\DavidHarelProj\FinalPojV13(icon)\FinalPoj1\bin\Debug\net6.0\FinalPoj1.exe
+C:\Users\User\Desktop\SELA\code\Le_AGASHA\DavidHarelProj\FinalPojV13(icon)\FinalPoj1\bin\Debug\net6.0\FinalPoj1.deps.json
+C:\Users\User\Desktop\SELA\code\Le_AGASHA\DavidHarelProj\FinalPojV13(icon)\FinalPoj1\bin\Debug\net6.0\FinalPoj1.runtimeconfig.json
+C:\Users\User\Desktop\SELA\code\Le_AGASHA\DavidHarelProj\FinalPojV13(icon)\FinalPoj1\bin\Debug\net6.0\FinalPoj1.dll
+C:\Users\User\Desktop\SELA\code\Le_AGASHA\DavidHarelProj\FinalPojV13(icon)\FinalPoj1\bin\Debug\net6.0\FinalPoj1.pdb
+C:\Users\User\Desktop\SELA\code\Le_AGASHA\DavidHarelProj\FinalPojV13(icon)\FinalPoj1\bin\Debug\net6.0\Newtonsoft.Json.dll
+C:\Users\User\Desktop\SELA\code\Le_AGASHA\DavidHarelProj\FinalPojV13(icon)\FinalPoj1\bin\Debug\net6.0\Spectre.Console.dll
+C:\Users\User\Desktop\SELA\code\Le_AGASHA\DavidHarelProj\FinalPojV13(icon)\FinalPoj1\bin\Debug\net6.0\System.Text.Encodings.Web.dll
+C:\Users\User\Desktop\SELA\code\Le_AGASHA\DavidHarelProj\FinalPojV13(icon)\FinalPoj1\bin\Debug\net6.0\System.Text.Json.dll
+C:\Users\User\Desktop\SELA\code\Le_AGASHA\DavidHarelProj\FinalPojV13(icon)\FinalPoj1\bin\Debug\net6.0\runtimes\browser\lib\net6.0\System.Text.Encodings.Web.dll
+C:\Users\User\Desktop\SELA\code\Le_AGASHA\DavidHarelProj\FinalPojV13(icon)\FinalPoj1\obj\Debug\net6.0\FinalPoj1.csproj.AssemblyReference.cache
+C:\Users\User\Desktop\SELA\code\Le_AGASHA\DavidHarelProj\FinalPojV13(icon)\FinalPoj1\obj\Debug\net6.0\FinalPoj1.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\User\Desktop\SELA\code\Le_AGASHA\DavidHarelProj\FinalPojV13(icon)\FinalPoj1\obj\Debug\net6.0\FinalPoj1.AssemblyInfoInputs.cache
+C:\Users\User\Desktop\SELA\code\Le_AGASHA\DavidHarelProj\FinalPojV13(icon)\FinalPoj1\obj\Debug\net6.0\FinalPoj1.AssemblyInfo.cs
+C:\Users\User\Desktop\SELA\code\Le_AGASHA\DavidHarelProj\FinalPojV13(icon)\FinalPoj1\obj\Debug\net6.0\FinalPoj1.csproj.CoreCompileInputs.cache
+C:\Users\User\Desktop\SELA\code\Le_AGASHA\DavidHarelProj\FinalPojV13(icon)\FinalPoj1\obj\Debug\net6.0\FinalPoj1.csproj.CopyComplete
+C:\Users\User\Desktop\SELA\code\Le_AGASHA\DavidHarelProj\FinalPojV13(icon)\FinalPoj1\obj\Debug\net6.0\FinalPoj1.dll
+C:\Users\User\Desktop\SELA\code\Le_AGASHA\DavidHarelProj\FinalPojV13(icon)\FinalPoj1\obj\Debug\net6.0\refint\FinalPoj1.dll
+C:\Users\User\Desktop\SELA\code\Le_AGASHA\DavidHarelProj\FinalPojV13(icon)\FinalPoj1\obj\Debug\net6.0\FinalPoj1.pdb
+C:\Users\User\Desktop\SELA\code\Le_AGASHA\DavidHarelProj\FinalPojV13(icon)\FinalPoj1\obj\Debug\net6.0\FinalPoj1.genruntimeconfig.cache
+C:\Users\User\Desktop\SELA\code\Le_AGASHA\DavidHarelProj\FinalPojV13(icon)\FinalPoj1\obj\Debug\net6.0\ref\FinalPoj1.dll
