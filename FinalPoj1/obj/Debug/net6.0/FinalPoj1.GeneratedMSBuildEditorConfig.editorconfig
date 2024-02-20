@@ -8,4 +8,6 @@ build_property.PlatformNeutralAssembly =
 build_property.EnforceExtendedAnalyzerRules = 
 build_property._SupportedPlatformList = Linux,macOS,Windows
 build_property.RootNamespace = FinalPoj1
-build_property.ProjectDir = C:\Users\User\Desktop\SELA\code\Le_AGASHA\DavidHarelProj\FinalPojV13(icon)\FinalPoj1\
+build_property.ProjectDir = D:\SELA\code\Le_AGASHA\DavidHarelProj\FinalPojV13(icon)\FinalPoj1\
+build_property.EnableComHosting = 
+build_property.EnableGeneratedComInterfaceComImportInterop = 

@@ -317,11 +317,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\User\\Desktop\\SELA\\code\\Le_AGASHA\\DavidHarelProj\\FinalPojV13(icon)\\FinalPoj1\\FinalPoj1.csproj",
+      "projectUniqueName": "D:\\SELA\\code\\Le_AGASHA\\DavidHarelProj\\FinalPojV13(icon)\\FinalPoj1\\FinalPoj1.csproj",
       "projectName": "FinalPoj1",
-      "projectPath": "C:\\Users\\User\\Desktop\\SELA\\code\\Le_AGASHA\\DavidHarelProj\\FinalPojV13(icon)\\FinalPoj1\\FinalPoj1.csproj",
+      "projectPath": "D:\\SELA\\code\\Le_AGASHA\\DavidHarelProj\\FinalPojV13(icon)\\FinalPoj1\\FinalPoj1.csproj",
       "packagesPath": "C:\\Users\\User\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\User\\Desktop\\SELA\\code\\Le_AGASHA\\DavidHarelProj\\FinalPojV13(icon)\\FinalPoj1\\obj\\",
+      "outputPath": "D:\\SELA\\code\\Le_AGASHA\\DavidHarelProj\\FinalPojV13(icon)\\FinalPoj1\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
@@ -383,7 +383,7 @@
             "privateAssets": "all"
           }
         },
-        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\7.0.203\\RuntimeIdentifierGraph.json"
+        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\8.0.100\\RuntimeIdentifierGraph.json"
       }
     }
   }
